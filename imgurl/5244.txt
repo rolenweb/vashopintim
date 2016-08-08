@@ -1,0 +1,7 @@
+http://intimshop24.com/components/com_jshopping/files/img_products/full_The_Trumpeter_Swan_1.jpg
+http://intimshop24.com/components/com_jshopping/files/img_products/full_The_Trumpeter_Swan_2.png" style="display:none">
+                <img hspace="10px" id = "main_image_22844" src = "http://intimshop24.com/components/com_jshopping/files/img_products/The_Trumpeter_Swan_2.png" alt="SW3-20016 перезаряжаемый вибромассажер the trumpeter swan  розовый вибраторы" title="SW3-20016 перезаряжаемый вибромассажер the trumpeter swan  розовый вибраторы" />
+                <div class="text_zoom">
+                    <img src="http://intimshop24.com/components/com_jshopping/images/search.png" alt="zoom" /> Увеличить изображение                </div>
+            </a>
+                        <a class="lightbox" id="main_image_full_20647" href="http://intimshop24.com/components/com_jshopping/files/img_products/full_98cc3db8d97a110bbe344e80384916d2.jpg

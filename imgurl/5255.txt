@@ -1,0 +1,12 @@
+http://intimshop24.com/components/com_jshopping/files/img_products/full_571c5a8ed3ee23958b28ea3591b7b758.jpg
+http://intimshop24.com/components/com_jshopping/files/img_products/full_The_Kissing_Swan_2.png" style="display:none">
+                <img hspace="10px" id = "main_image_22861" src = "http://intimshop24.com/components/com_jshopping/files/img_products/The_Kissing_Swan_2.png" alt="SW3-21316 перезаряжаемый вибромассажер the kissing swan со стимулятором клитора розовый вибраторы" title="SW3-21316 перезаряжаемый вибромассажер the kissing swan со стимулятором клитора розовый вибраторы" />
+                <div class="text_zoom">
+                    <img src="http://intimshop24.com/components/com_jshopping/images/search.png" alt="zoom" /> Увеличить изображение                </div>
+            </a>
+                        </span>
+                        
+            <!-- /Основное фото -->		
+<!-- Маленькие фото -->	
+                        <span id='list_product_image_thumb'>
+                                                <img style="width:60px !important;"  class="jshop_img_thumb" src="http://intimshop24.com/components/com_jshopping/files/img_products/thumb_571c5a8ed3ee23958b28ea3591b7b758.jpg

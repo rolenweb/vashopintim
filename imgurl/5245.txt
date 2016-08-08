@@ -1,0 +1,7 @@
+http://intimshop24.com/components/com_jshopping/files/img_products/full_The_Mute_Swan_1.jpg
+http://intimshop24.com/components/com_jshopping/files/img_products/full_The_Mute_Swan_2.png" style="display:none">
+                <img hspace="10px" id = "main_image_22846" src = "http://intimshop24.com/components/com_jshopping/files/img_products/The_Mute_Swan_2.png" alt="SW3-20116 перезаряжаемый вибромассажер the mute swan розовый вибраторы" title="SW3-20116 перезаряжаемый вибромассажер the mute swan розовый вибраторы" />
+                <div class="text_zoom">
+                    <img src="http://intimshop24.com/components/com_jshopping/images/search.png" alt="zoom" /> Увеличить изображение                </div>
+            </a>
+                        <a class="lightbox" id="main_image_full_20648" href="http://intimshop24.com/components/com_jshopping/files/img_products/full_7ab8e6160dce3f1967b230d34ccdb6b2.jpg

@@ -1,0 +1,12 @@
+RewriteEngine On
+#если запрошенного файла или папки не существует
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+#регулярим)
+RewriteRule ^privacy/? privacy.php [L,QSA]
+RewriteRule ^contact/? contact.php [L,QSA]
+RewriteRule ^dostavka/? dostavka.php [L,QSA]
+RewriteRule ^oplata/? oplata.php [L,QSA]
+RewriteRule ^goto/(.*) goto.php?urlpar=$1 [L,QSA]
+RewriteRule ^([^/]+)/([^/]+)/ product.php?catname=$1&tovname=$2 [L,QSA]
+RewriteRule ^([^/]+)/ catalog.php?catname=$1 [L,QSA]

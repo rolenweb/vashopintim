@@ -1,0 +1,103 @@
+.shop-head-menu{
+	text-transform: uppercase;
+}
+.shop-price{
+	text-align: right;
+}
+.but-buy{
+	text-align: center;	
+}
+.url-tovar{
+	text-align: right;	
+}
+.url-button{
+	background: #a9d04a;
+  	border: 2px solid #80a32a;
+  	color: #ffffff;
+}
+.url-button:hover{
+	background: #ffffff;
+  	border: 2px solid #80a32a;
+  	color: #a9d04a;
+}
+.des-tovar{
+	
+}
+.payment{
+	margin: 10px;
+}
+.payment ol {
+	margin: 20px;
+	list-style-type: decimal;
+}
+.payment .cash{
+
+}
+.payment .cash h2{
+	color: #54847F;
+}
+.payment .online{
+
+}
+.payment .online h2{
+	color: #54847F;
+}
+.payment .online ul{
+	margin: 20px
+}
+.payment .termilal{
+
+}
+.payment .termilal h2{
+	color: #54847F;
+}
+.dostavka{
+	margin: 10px;
+}
+.dostavka h2{
+	color: #54847F;
+}
+}
+.dostavka ul {
+}
+.up-w{
+	text-transform: uppercase;
+}
+.dostavka .vazno .up-w{
+	color: #FF0000;
+	text-transform: uppercase;
+}
+.privacy{
+
+}
+.privacy h2{
+	color: #54847F;
+}
+.privacy .up-w{
+	color: #FF0000;
+	text-transform: uppercase;
+}
+.privacy .up-strong-w{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.contact-form{
+	margin: 20px;	
+}
+.contact-form .form-control{
+	margin-top: 10px;
+}
+.contact-form .contact-btn{
+	margin-top: 20px;
+	text-align: center;
+}
+.contact-form .errormsg{
+	background: #FFD1ED;
+}
+.contact-form .success-mes{
+	text-align: center;
+}
+.sosial{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

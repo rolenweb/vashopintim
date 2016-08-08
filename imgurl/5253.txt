@@ -1,0 +1,12 @@
+http://intimshop24.com/components/com_jshopping/files/img_products/full_41bd18c3974dfce6816b277eff7e4bfa.jpg
+http://intimshop24.com/components/com_jshopping/files/img_products/full_The_Cygnet_Swan_2.png" style="display:none">
+                <img hspace="10px" id = "main_image_22859" src = "http://intimshop24.com/components/com_jshopping/files/img_products/The_Cygnet_Swan_2.png" alt="SW3-21116 перезаряжаемый вибромассажер the cygnet swan со стимулятором клитора розовый вибраторы" title="SW3-21116 перезаряжаемый вибромассажер the cygnet swan со стимулятором клитора розовый вибраторы" />
+                <div class="text_zoom">
+                    <img src="http://intimshop24.com/components/com_jshopping/images/search.png" alt="zoom" /> Увеличить изображение                </div>
+            </a>
+                        </span>
+                        
+            <!-- /Основное фото -->		
+<!-- Маленькие фото -->	
+                        <span id='list_product_image_thumb'>
+                                                <img style="width:60px !important;"  class="jshop_img_thumb" src="http://intimshop24.com/components/com_jshopping/files/img_products/thumb_41bd18c3974dfce6816b277eff7e4bfa.jpg
